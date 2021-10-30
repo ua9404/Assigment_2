@@ -1,7 +1,8 @@
+import csv
+import plotter
 
 
-
-def quit(y, n):
+def quit(y, n,):
     input("are you sure (y/n): ")
     if input == y:
         print(True)
@@ -19,9 +20,14 @@ try:
      print("Goodbye!")
     else:
         print("Goodbye!")
+    if input == 'stu':
+        print("Continue")
 except:
     print("Invalid command")
     print("Please try again")
 
-
+def student_average(stu, filename, firstname, lastname):
+    input = open(excel_file.csv)
+    if input == stu:
+        print("plot finished (window maybe hidden")
 
