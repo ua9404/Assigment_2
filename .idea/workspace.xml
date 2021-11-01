@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="923e443a-977d-4045-b296-8033e4609365" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/plots_cli.py" beforeDir="false" afterPath="$PROJECT_DIR$/plots_cli.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plotes.py" beforeDir="false" afterPath="$PROJECT_DIR$/plotes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635741424823</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="print_average_2">
+      <created>1635741856492</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1635741856492</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -219,6 +226,7 @@
     <MESSAGE value="test" />
     <MESSAGE value="average" />
     <MESSAGE value="average_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="average_2" />
+    <MESSAGE value="print_average_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="print_average_2" />
   </component>
 </project>

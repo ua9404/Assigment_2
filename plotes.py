@@ -25,6 +25,19 @@ def test_student_average(stu):
     return False
 
 
-def test_print_average():
+def test_print_average(average):
+    try:
+        average = test_student_average() + len(excel_file.csv)
+        print("the average grade: ")
+    if average == test_student_average() + len(excel_file.csv)
+        print("average grade: ")
+    else:
+        print("-1")
+    except:
+    print("Usage: avg <filename> <grade item>")
+    print("grade item must be a number")
     
+
+
+
 
