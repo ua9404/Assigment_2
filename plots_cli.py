@@ -27,10 +27,14 @@ except:
     print("Please try again")
 
 def student_average(stu, filename, firstname, lastname):
-    input = open(excel_file.csv)
+    try:
+     input = open(excel_file.csv)
     if input == stu:
         print("plot finished (window maybe hidden")
     else:
         print("plot failed (no such student)")
         input.close()
-        
+    except:
+    print("usage: stu <filename> <firstname> <lastname>")
+    print("no such file")
+
