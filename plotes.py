@@ -38,6 +38,16 @@ def test_print_average(average):
     print("grade item must be a number")
 
 
+def test_class_average(average):
+    try:
+        if average == test_print_average(average) + len(excel_file.csv)
+            print("plot is finished (window may be closed)")
+        else:
+            print("-1")
+    except:
+        print("Usage: cavg <filename>")
+        print("no such file")
+
 
 
 
