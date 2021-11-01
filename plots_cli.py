@@ -22,6 +22,9 @@ try:
         print("Goodbye!")
     if input == 'stu':
         print("Continue")
+    if input == 'help':
+        print("help message")
+
 except:
     print("Invalid command")
     print("Please try again")
@@ -48,3 +51,15 @@ a_string = (avg, filename, grade_item)
 def class_average(b_string):
     return True
     print(" class average")
+
+
+
+def help():
+    if input == 'help':
+        print(stu <filename> <first name> <last name> - plot student grades
+cavg <filename> - plot class average
+avg <filename> <number> - prints the average for the grade item
+quit - quits
+help - displays this message)
+
+help()
