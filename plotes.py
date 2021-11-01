@@ -36,7 +36,7 @@ def test_print_average(average):
     except:
     print("Usage: avg <filename> <grade item>")
     print("grade item must be a number")
-    
+
 
 
 

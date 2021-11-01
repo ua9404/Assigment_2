@@ -42,3 +42,6 @@ def student_average(stu):
 def print_average(a_string):
     return True
 print("average grade: ")
+
+
+a_string = (avg, filename, grade_item)
