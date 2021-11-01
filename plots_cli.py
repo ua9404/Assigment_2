@@ -26,7 +26,7 @@ except:
     print("Invalid command")
     print("Please try again")
 
-def student_average(stu, filename, firstname, lastname):
+def student_average(stu):
     try:
      input = open(excel_file.csv)
     if input == stu:
@@ -38,3 +38,7 @@ def student_average(stu, filename, firstname, lastname):
     print("usage: stu <filename> <firstname> <lastname>")
     print("no such file")
 
+
+def print_average(a_string):
+    return True
+print("average grade: ")

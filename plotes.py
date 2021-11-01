@@ -25,3 +25,6 @@ def test_student_average(stu):
     return False
 
 
+def test_print_average():
+    
+
