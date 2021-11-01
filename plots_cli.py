@@ -30,4 +30,7 @@ def student_average(stu, filename, firstname, lastname):
     input = open(excel_file.csv)
     if input == stu:
         print("plot finished (window maybe hidden")
-
+    else:
+        print("plot failed (no such student)")
+        input.close()
+        

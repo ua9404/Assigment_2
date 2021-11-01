@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="923e443a-977d-4045-b296-8033e4609365" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/plotes.py" beforeDir="false" afterPath="$PROJECT_DIR$/plotes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots_cli.py" beforeDir="false" afterPath="$PROJECT_DIR$/plots_cli.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +180,21 @@
       <option name="project" value="LOCAL" />
       <updated>1635591933874</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="average">
+      <created>1635594135486</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1635594135486</updated>
+    </task>
+    <task id="LOCAL-00007" summary="average_2">
+      <created>1635594235470</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1635594235470</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,6 +203,8 @@
     <MESSAGE value="quit" />
     <MESSAGE value="command" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="average" />
+    <MESSAGE value="average_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="average_2" />
   </component>
 </project>
